@@ -63,11 +63,9 @@ The following visualizations are created using `Seaborn` and `Matplotlib`:
 
 ## How to Run
 
-1. **Run the Python script**:
-   Simply execute the script:
-   ```bash
-   python youtube_channel_analysis.py
-   ```
+1. **Open in Google Colab:
+- Go to Google Colab.
+- Open the notebook file or copy the Python script code into a new Colab notebook.
 
 2. **Modifying Channel IDs** (optional):
    To analyze different channels, modify the `channel_ids` list in the script by adding or removing channel IDs.
@@ -87,17 +85,14 @@ The following visualizations are created using `Seaborn` and `Matplotlib`:
 ### Subscribers by Channel
 Shows the total number of subscribers for each analyzed channel.
 
-![Subscribers Plot](path/to/subscribers_plot.png)
 
 ### Views for Top 10 Videos
 Displays the most viewed videos for the selected channels.
 
-![Top 10 Videos](path/to/top10_videos_plot.png)
 
 ### Monthly Video Publishing Trends
 Illustrates the number of videos published each month by the analyzed channels.
 
-![Monthly Video Trends](path/to/monthly_videos_plot.png)
 
 ## Future Improvements
 - Perform trend analysis (e.g., year-over-year growth of subscribers and views).
