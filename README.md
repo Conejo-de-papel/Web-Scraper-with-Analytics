@@ -63,7 +63,7 @@ The following visualizations are created using `Seaborn` and `Matplotlib`:
 
 ## How to Run
 
-1. **Open in Google Colab:
+1. Open in Google Colab:
 - Go to Google Colab.
 - Open the notebook file or copy the Python script code into a new Colab notebook.
 
